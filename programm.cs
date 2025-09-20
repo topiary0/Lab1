@@ -10,11 +10,10 @@ namespace ConsoleApp1
     {
     static void Main(string[] args)
     {
-<<<<<<< HEAD
+HEAD
         Console.WriteLine("Hello, world!");
-=======
         Console.WriteLine("Hello, Ivan!");
->>>>>>> feature-new-ui
+feature-new-ui
         Console.ReadLine();
     }
     }
